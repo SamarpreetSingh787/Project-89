@@ -4,5 +4,5 @@ function strt() {
 
     localStorage.setItem("player1_name",player1_n);
     localStorage.setItem("player2_name",player2_n);
-    window.location="game_page.html";
+    window.location="quiz.html";
 }
